@@ -47,3 +47,7 @@ python -m pytest
 pyright
 
 ```
+
+## License
+
+This project is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. For more information, see the [LICENSE](LICENSE) file or visit [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
