@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Debug modern_python.main",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "modern_python.main",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Python: pytest",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "console": "integratedTerminal",
+      "justMyCode": false
+    }
+  ]
+}
